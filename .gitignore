@@ -1,0 +1,9 @@
+##ignore this file##
+
+JavaMultiThreading.iml
+
+/.idea/
+
+/out/
+*.xml
+*.class
